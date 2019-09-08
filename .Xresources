@@ -1,0 +1,48 @@
+! general
+*.background: #efefd8
+*.foreground: #402e2e
+*.cursorColor:#402e2e
+*.colorBD:    #402e2e
+*.colorUL:    #402e2e
+*.colorIT:    #402e2e
+
+! black
+*.color0:  #4a3637
+*.color8:  #402e2e
+
+! red
+*.color1:  #672337
+*.color9:  #f05f79
+
+! green
+*.color2:  #165d10
+*.color10: #a4dd9f
+
+! yellow
+*.color3:  #ccc116
+*.color11: #fdf68b
+
+! blue
+*.color4:  #13197a
+*.color12: #98aac7
+
+! magenta
+*.color5:  #4b0d5e
+*.color13: #e3ccea
+
+! cyan
+*.color6:  #156a68
+*.color14: #b2dddc
+
+! white
+*.color7:  #402e2e
+*.color15: #978965
+
+! urxvt
+URxvt*cursorBlink: 		true
+URxvt*font:			xft:kakwa kakwafont:style=regular:size=9
+URxvt*scrollBar: 		false
+URxvt.perl-ext-common:	default,matcher
+URxvt.url-launcher: 	/usr/bin/firefox
+URxvt.matcher.button: 	1
+URxvt*internalBorder: 	16
